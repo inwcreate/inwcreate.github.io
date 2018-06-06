@@ -1,2 +1,2 @@
 <?php 
-echo "Hi git";
+echo "Hi git new verstion";
